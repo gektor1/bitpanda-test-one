@@ -22,3 +22,46 @@ In the resulted DB you will have these 3 tables: `users`, `countries` and `user_
 
 Tips:
 - you can use Eloquent to simplify (eg: model binding)
+
+
+### Installation
+
+1. Clone repo
+
+2. Change to directory
+
+````
+cd bitpanda-test-one
+````   
+
+3. Install dependencies
+
+````
+composer install
+````
+
+4. Copy .env file
+
+```
+cp .env.example .env
+```
+
+5. Modify `DB_*` value in `.env` with your database config.
+
+6. Generate application key:
+
+````
+php artisan key:generate
+````
+
+7. Migrate
+````
+php artisan migrate
+````
+
+8. Run
+````
+php artisan serve
+````
+
+9. Visit localhost:8000 in your browser
