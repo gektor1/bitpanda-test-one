@@ -86,6 +86,6 @@ Run the database seeder and you're done
 ````
 
 ## Preview
-[
-Video
-![](https://cdn.loom.com/sessions/thumbnails/b6af157c3ae84b2c8d410a5ee7ce6093-with-play.gif)](https://www.loom.com/share/b6af157c3ae84b2c8d410a5ee7ce6093)
+![Laravel Ecommerce Example](https://cdn.loom.com/sessions/thumbnails/b6af157c3ae84b2c8d410a5ee7ce6093-with-play.gif)
+
+Loom: https://www.loom.com/share/b6af157c3ae84b2c8d410a5ee7ce6093
