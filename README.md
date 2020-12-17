@@ -84,3 +84,8 @@ Run the database seeder and you're done
 ````
     php artisan test
 ````
+
+## Preview
+[
+App Name - - Watch Video
+![](https://cdn.loom.com/sessions/thumbnails/b6af157c3ae84b2c8d410a5ee7ce6093-with-play.gif)](https://www.loom.com/share/b6af157c3ae84b2c8d410a5ee7ce6093)
