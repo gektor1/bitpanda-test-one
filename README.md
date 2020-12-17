@@ -65,3 +65,16 @@ php artisan serve
 ````
 
 9. Visit localhost:8000 in your browser
+
+
+## Database seeding
+
+**Populate the database with seed data with relationships which includes `users`, `countries` and `user_details`.**
+
+Run the database seeder and you're done
+
+    php artisan db:seed
+
+***Note*** : It's recommended to have a clean database before seeding. You can refresh your migrations at any point to clean the database by running the following command
+
+    php artisan migrate:refresh
